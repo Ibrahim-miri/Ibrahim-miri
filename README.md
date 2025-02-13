@@ -1,6 +1,6 @@
 <h1 align="center">Hey there!👋 </h1>
 <h2 align="left">About me:</h2>
-<p>Im Mouad a student at Mohammed Premier University (UMP), from Morocco </p>
+<p>Im <b>Ibrahim</b> a student at Mohammed Premier University (UMP), from Morocco </p>
 <p align="left">📚 I'm currently learning Javascript, C++ and learning about game hacking <br>🎯 Goals: create my website, create a discord bot and a Hack engine also i want to solve a lot of my problems with programming </p>
 
 <h2 align="left">I code with</h2>
